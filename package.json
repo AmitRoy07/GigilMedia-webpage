@@ -1,0 +1,19 @@
+{
+  "name": "gigilmedia-webpage",
+  "version": "1.0.0",
+  "description": "It's a webpage i was given to complete in a day for a interview.. I took 8 hrs to complete it with responsive.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmitRoy07/GigilMedia-webpage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmitRoy07/GigilMedia-webpage/issues"
+  },
+  "homepage": "https://github.com/AmitRoy07/GigilMedia-webpage#readme"
+}
